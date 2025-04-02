@@ -4,3 +4,9 @@
 [submodule "json"]
 	path = json
 	url = https://github.com/nlohmann/json
+[submodule "StockMarketSim/cpp-httplib"]
+	path = StockMarketSim/cpp-httplib
+	url = https://github.com/yhirose/cpp-httplib
+[submodule "StockMarketSim/json"]
+	path = StockMarketSim/json
+	url = https://github.com/nlohmann/json
